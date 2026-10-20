@@ -1,0 +1,6 @@
+id,question,reference_answer,category
+FAQ001,What are the customer support hours?,For this fictional demo company support is available Monday through Friday from 9:00 AM to 6:00 PM IST.,support
+FAQ002,Can I cancel my subscription?,For this fictional demo company subscriptions may be cancelled from the account settings page. Cancellation stops future renewals but does not refund the current billing period.,subscription
+FAQ003,How long does a refund take?,For this fictional demo company approved refunds are returned to the original payment method within 7 business days.,refund
+FAQ004,Does the company offer phone support on Sundays?,For this fictional demo company support is available Monday through Friday only. Sunday phone support is not offered.,support
+FAQ005,When does a cancelled plan stop working?,For this fictional demo company a cancelled subscription stays active until the end of the paid billing period. It does not renew afterwards.,subscription
